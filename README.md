@@ -1,5 +1,4 @@
-Este proyecto consiste en crear una paǵina que contiene
-una lista de recetas. 
+This proyect consist in creating a basic recipes website.
 
-Para este proyecto se utilizan los conocimientos básicos
-de HTML, git y Github. 
+I have applied my basic knowledge in HTML, Git and Github to
+build this website.
